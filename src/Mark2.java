@@ -1,9 +1,6 @@
-package Lesson06.online;
+package Lesson06.src;
 
-/**
- * Created by Aleksandr Gladkov [Anticisco]
- * Date: 29.01.2022
- */
+
 
 public class Mark2 extends Toyota {
 

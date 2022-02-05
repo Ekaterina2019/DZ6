@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a66b3144-687e-4337-a19e-8d23ec1ea230" name="Changes" comment="" />
+    <list default="true" id="a66b3144-687e-4337-a19e-8d23ec1ea230" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/online/Jeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/online/Jeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/Mark2.java" beforeDir="false" afterPath="$PROJECT_DIR$/online/Mark2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/Mazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/online/Mazda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/online/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/models/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/online/models/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online/models/String.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,5 +54,16 @@
       <updated>1644047404925</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
