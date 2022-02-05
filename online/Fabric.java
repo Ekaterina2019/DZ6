@@ -1,4 +1,4 @@
-
+//Lesson 06
 import Lesson06.online.models.Car;
 
 public class Fabric {
