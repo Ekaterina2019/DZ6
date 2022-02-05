@@ -1,5 +1,5 @@
 //Lesson 06
-import Lesson06.online.models.Car;
+import Lesson06.src.models.Car;
 
 public class Fabric {
 

@@ -1,6 +1,6 @@
-package Lesson06.online;
+package Lesson06.src;
 
-import Lesson06.online.models.Car;
+import Lesson06.src.models.Car;
 
 
 
