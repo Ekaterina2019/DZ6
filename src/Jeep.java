@@ -2,10 +2,6 @@ package Lesson06.online;
 
 import Lesson06.online.models.Car;
 
-/**
- * Created by Aleksandr Gladkov [Anticisco]
- * Date: 29.01.2022
- */
 
 public class Jeep extends Car {
 

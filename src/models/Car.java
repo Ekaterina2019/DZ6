@@ -1,6 +1,5 @@
 
 
-
 public abstract class Car {
 
     protected String model;
